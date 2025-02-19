@@ -1,0 +1,1001 @@
+position,book_draft,director,duration
+1,Stephen King,Frank Darabont,142
+2,Winston Groom,Robert Zemeckis,142
+3,Stephen King,Frank Darabont,188
+4,,David Fincher,127
+5,Ken Kesey,Miloš Forman,133
+6,Thomas Keneally,Steven Spielberg,195
+7,Mario Puzo,Francis Ford Coppola,175
+8,,Sidney Lumet,96
+9,,Eric Toledano,112
+10,Petr Šabach,Jan Hřebejk,116
+11,,James Cameron,137
+12,J.R.R. Tolkien,Peter Jackson,228
+13,,Quentin Tarantino,154
+14,J.R.R. Tolkien,Peter Jackson,193
+15,Mario Puzo,Francis Ford Coppola,202
+16,Bob Kane,Christopher Nolan,152
+17,Thomas Harris,Jonathan Demme,119
+18,,Sergio Leone,152
+19,,Lilly Wachowski,136
+20,,Clint Eastwood,116
+21,,Sergio Leone,172
+22,,Steven Spielberg,115
+23,,Barry Levinson,133
+24,,John Sturges,123
+25,Jan Drda,Jiří Krejčík,102
+26,,Steven Spielberg,127
+27,,Ridley Scott,117
+28,,James Cameron,137
+29,,Ron Howard,123
+30,,James Mangold,152
+31,Roderick Thorp,John McTiernan,131
+32,,George Roy Hill,129
+33,,Steven Spielberg,163
+34,Božena Němcová,Hynek Bočan,91
+35,,Luc Besson,105
+36,,Oldřich Lipský,96
+37,,Miloš Forman,173
+38,,Jan Svěrák,97
+39,,Irvin Kershner,124
+40,James Ellroy,Curtis Hanson,138
+41,Jaroslav Žák,Martin Frič,88
+42,,George Roy Hill,110
+43,J.R.R. Tolkien,Peter Jackson,172
+44,,Robert Zemeckis,116
+45,Paulo Lins,Fernando Meirelles,130
+46,,Christopher Nolan,148
+47,,Ridley Scott,149
+48,Sylvia Nasar,Ron Howard,135
+49,Ladislav Fuks,Juraj Herz,96
+50,Michael Blake,Kevin Costner,237
+51,,Jiří Menzel,98
+52,Władysław Szpilman,Roman Polański,150
+53,,M. Night Shyamalan,107
+54,Nicholas Pileggi,Martin Scorsese,178
+55,Dennis Lehane,Martin Scorsese,138
+56,Chuck Palahniuk,David Fincher,139
+57,,Quentin Tarantino,165
+58,,Tony Kaye,119
+59,,Mel Gibson,170
+60,F.X. Toole,Clint Eastwood,133
+61,,Gus Van Sant,126
+62,,Michael Mann,170
+63,,Roberto Benigni,116
+64,Robert Bloch,Alfred Hitchcock,109
+65,Christopher Priest,Christopher Nolan,130
+66,,Oliver Stone,120
+67,René Goscinny,René Goscinny,82
+68,Sergio Pablos,Sergio Pablos,96
+69,Stephen King,Stanley Kubrick,115
+70,,Richard Donner,117
+71,,Thomas Vinterberg,115
+72,,William Wyler,118
+73,William Steig,Vicky Jenson,90
+74,,George Lucas,121
+75,,Jiří Menzel,93
+76,,Billy Wilder,120
+77,Václav Kaplický,Otakar Vávra,103
+78,Henri Charrière,Franklin J. Schaffner,151
+79,Hubert Selby Jr.,Darren Aronofsky,102
+80,Nicholas Pileggi,Martin Scorsese,146
+81,,Karel Lamač,99
+82,Ernesto Gastaldi,Sergio Leone,101
+83,,George Lucas,140
+84,,Karel Zeman,93
+85,,Gavin O'Connor,140
+86,,Bryan Singer,106
+87,,Lee Unkrich,105
+88,,Sam Mendes,122
+89,,Guy Ritchie,104
+90,,Bryan Singer,134
+91,,Jiří Mádl,131
+92,,Joaquim Dos Santos,140
+93,,Richard Marquand,131
+94,Božena Němcová,Bořivoj Zeman,107
+95,Robert Ludlum,Paul Greengrass,115
+96,Frank Herbert,Denis Villeneuve,166
+97,,James Cameron,107
+98,,Andrew Davis,130
+99,Oliver Sacks,Penny Marshall,121
+100,Frank W. Abagnale Jr.,Steven Spielberg,141
+101,,Tony Scott,105
+102,,Hajao Mijazaki,133
+103,Donn Pearce,Stuart Rosenberg,126
+104,,Jan Holoubek,112
+105,Irvine Welsh,Danny Boyle,90
+106,,Zdeněk Podskalský st.,99
+107,,Jean-Jacques Annaud,96
+108,,Peter Weir,103
+109,,Ladislav Smoljak,81
+110,Jaroslav Žák,Martin Frič,91
+111,,Akira Kurosawa,160
+112,,Quentin Tarantino,153
+113,Mark Jacobson,Ridley Scott,151
+114,,Guy Ritchie,103
+115,Armitage Trail,Brian De Palma,170
+116,,Hajao Mijazaki,124
+117,,Peter Farrelly,130
+118,,Ron Howard,149
+119,Mark Bowden,Ridley Scott,138
+120,,Terry Gilliam,124
+121,,John McTiernan,107
+122,,Jonathan Mackye Gruber,113
+123,Ladislav Grosman,Ján Kadár,128
+124,Bob Kane,Christopher Nolan,140
+125,,Ladislav Smoljak,85
+126,,John G. Avildsen,115
+127,Jonathan Nolan,Christopher Nolan,113
+128,,Roger Allers,89
+129,,Richard Donner,107
+130,Jacob Grimm,David Hand,83
+131,Otfried Preußler,Karel Zeman,72
+132,Lothar G. Buchheim,Wolfgang Petersen,200
+133,,Chris Columbus,103
+134,Bob Kane,Christopher Nolan,158
+135,,Joseph Kosinski,131
+136,,Sergio Leone,132
+137,Hiroši Sakurazaka,Doug Liman,108
+138,,Terry George,121
+139,,Ladislav Smoljak,88
+140,Cressida Cowell,Chris Sanders,94
+141,Jules Verne,Karel Zeman,81
+142,Peter Brown,Chris Sanders,101
+143,Božena Němcová,Václav Vorlíček,75
+144,,Martin Frič,80
+145,,David Fincher,129
+146,Ota Pavel,Karel Kachyňa,91
+147,Gustav Hasford,Stanley Kubrick,116
+148,Kathryn Stockett,Tate Taylor,140
+149,Frederick Treves,David Lynch,124
+150,,Andrew Stanton,100
+151,Michael Crichton,Steven Spielberg,127
+152,,Jan Svěrák,105
+153,Jiří Brdečka,Oldřich Lipský,95
+154,,Denis Villeneuve,153
+155,Jaroslav Hašek,Karel Steklý,105
+156,,Terry Jones,94
+157,Joseph Conrad,Francis Ford Coppola,141
+158,Pierre Boulle,David Lean,161
+159,,Stanley Donen,103
+160,,Martin Scorsese,151
+161,,Robert Zemeckis,108
+162,,Guy Ritchie,113
+163,,Peter Weir,128
+164,,Alan Parker,95
+165,Edwin Torres,Brian De Palma,144
+166,,Charlie Chaplin,68
+167,,Brad Bird,111
+168,,Quentin Tarantino,99
+169,,Vojtěch Jasný,115
+170,,Frank Capra,130
+171,J. K. Rowling,Alfonso Cuarón,141
+172,,Tom Hooper,118
+173,Bohumil Hrabal,Jiří Menzel,83
+174,,Jean Girault,95
+175,Stan Lee,Anthony Russo,149
+176,Gene Brewer,Iain Softley,120
+177,Stan Lee,Bob Persichetti,117
+178,Jan Procházka,Karel Kachyňa,91
+179,,Andrew Niccol,122
+180,,Michael Bay,136
+181,Jaroslav Hašek,Karel Steklý,91
+182,,Milan Šteindler,91
+183,,Jan Sviták,88
+184,,Karel Lamač,86
+185,Cornell Woolrich,Alfred Hitchcock,112
+186,,Charlie Chaplin,125
+187,,Vladimír Slavínský,91
+188,,Makoto Šinkai,106
+189,,Richard Curtis,135
+190,Robert Ludlum,Doug Liman,119
+191,,John Lasseter,80
+192,Robert Ludlum,Paul Greengrass,108
+193,John Wood Campbell jr.,John Carpenter,109
+194,,Damien Chazelle,107
+195,Paul Brickhill,John Sturges,165
+196,,Pierre Morel,89
+197,David Morrell,Ted Kotcheff,93
+198,,Lasse Hallström,89
+199,,Ron Howard,144
+200,,Hajao Mijazaki,118
+201,,Oldřich Lipský,95
+202,Karl May,Harald Reinl,111
+203,,Eduard Hofman,80
+204,,Wilson Yip,106
+205,Charles Webb,Mike Nichols,106
+206,,Claude Zidi,96
+207,,Robert De Niro,122
+208,,Martin Hollý ml.,86
+209,,Billy Wilder,110
+210,Humphrey Cobb,Stanley Kubrick,88
+211,,Giuseppe Tornatore,173
+212,,Christopher Nolan,169
+213,Michael Ende,Wolfgang Petersen,94
+214,,Pete Docter,90
+215,Jon Krakauer,Sean Penn,148
+216,Eliot Ness,Brian De Palma,119
+217,,Philippe de Broca,90
+218,,George Cukor,170
+219,Jan Guillou,Mikael Håfström,113
+220,Avery Corman,Robert Benton,105
+221,,Oliver Stone,181
+222,,Jindřich Polák,92
+223,,Jae-han Lee,117
+224,Gerry Conlon,Jim Sheridan,133
+225,,Charlie Chaplin,87
+226,,Tomm Moore,102
+227,,James Cameron,194
+228,Andrew Stanton,Andrew Stanton,98
+229,,Todd Phillips,122
+230,,James L. Brooks,139
+231,,Oldřich Lipský,105
+232,,Robert Zemeckis,118
+233,,Francis Ford Coppola,164
+234,,Gérard Oury,132
+235,,Jiří Sequens st.,100
+236,,Buster Keaton,79
+237,,Stanley Kramer,186
+238,,Jonathan Demme,125
+239,,Jan Hřebejk,120
+240,,Ladislav Smoljak,82
+241,Mark Twain,Věra Plívová-Šimková,87
+242,Jan Werich,Vlasta Pospíšilová,100
+243,Lew Wallace,William Wyler,212
+244,,José Giovanni,90
+245,Victor Hugo,Jean-Paul Le Chanois,217
+246,,Jesper W. Nielsen,110
+247,,Joel Schumacher,113
+248,Miloš Macourek,Miloš Macourek,69
+249,Thea von Harbou,Fritz Lang,153
+250,Marcel Pagnol,Claude Berri,120
+251,,Michael Gracey,135
+252,,Matthew Vaughn,126
+253,,Edward Zwick,148
+254,James Fenimore Cooper,Michael Mann,107
+255,Peter Hedges,Lasse Hallström,118
+256,Karl May,Harald Reinl,97
+257,Richard Martin Stern,John Guillermin,165
+258,René Goscinny,Pino Van Lamsweerde,79
+259,Bohumil Hrabal,Jiří Menzel,95
+260,Ward Greene,Hamilton Luske,75
+261,John Steinbeck,Gary Sinise,115
+262,Patrick Alexander,Georges Lautner,109
+263,Thomas Berger,Arthur Penn,147
+264,,Hajao Mijazaki,124
+265,,Oldřich Lipský,71
+266,,Sidney Lumet,121
+267,,Isao Takahata,89
+268,Donald Hamilton,William Wyler,165
+269,,Charlie Chaplin,87
+270,Agatha Christie,Billy Wilder,116
+271,Gillian Flynn,David Fincher,149
+272,,Taylor Hackford,144
+273,,Paul Haggis,112
+274,Pierre Souvestre,André Hunebelle,105
+275,,Miloš Forman,71
+276,,Jaroslav Papoušek,80
+277,,Martin Frič,95
+278,,Alfred Hitchcock,131
+279,,Franco Zeffirelli,133
+280,,Wojciech Smarzowski,150
+281,Erich Maria Remarque,Lewis Milestone,138
+282,Jae-won So,Joon-ik Lee,123
+283,,Jean-Pierre Jeunet,117
+284,,Jim Abrahams,86
+285,Peter Benchley,Steven Spielberg,118
+286,,Ash Brannon,89
+287,,Byron Howard,108
+288,,Harold Ramis,101
+289,Pierre Boulle,Franklin J. Schaffner,112
+290,,Paul Greengrass,111
+291,,Adam Elliot,89
+292,,Marcello Fondato,101
+293,,Stephen Daldry,110
+294,Gottfried August Bürger,Karel Zeman,83
+295,,Florian Henckel von Donnersmarck,137
+296,,Alan Parker,121
+297,Donald E. Westlake,Brian Helgeland,90
+298,,Florian Zeller,97
+299,,Roger Spottiswoode,112
+300,Marcel Pagnol,Claude Berri,113
+301,,Zdeněk Miler,74
+302,Daniel Wallace,Tim Burton,125
+303,Jim Lovell,Ron Howard,140
+304,,David Zucker,82
+305,,Clint Eastwood,141
+306,,Tony Scott,132
+307,John Irving,Lasse Hallström,120
+308,Jake LaMotta,Martin Scorsese,129
+309,Fan Vavřincová,Martin Frič,90
+310,,Hajao Mijazaki,86
+311,René Goscinny,Paul Brizzi,79
+312,,Joel Crawford,101
+313,Marjane Satrapi,Vincent Paronnaud,96
+314,Will Eisner,Brad Bird,86
+315,,Roger Donaldson,121
+316,Vladimír Körner,František Vláčil,96
+317,Frederick Forsyth,Fred Zinnemann,143
+318,,Hajao Mijazaki,116
+319,,Richard Attenborough,188
+320,,Tomm Moore,94
+321,T. E. Lawrence,David Lean,209
+322,,Richard Brooks,104
+323,,Billy Wilder,125
+324,,Robert Wiene,71
+325,,Martin Frič,93
+326,,Masaki Kobajaši,133
+327,Jošitoki Óima,Naoko Jamada,130
+328,,Nitesh Tiwari,161
+329,,Charlie Chaplin,141
+330,Daniel Defoe,Stanislav Látal,68
+331,Evan Hunter,Akira Kurosawa,143
+332,,Tim Burton,101
+333,,Carlos Saldanha,78
+334,,Michel Gondry,108
+335,,Alejandro González Iñárritu,124
+336,,Miloš Forman,121
+337,Nenad Brixy,Oldřich Lipský,102
+338,,Thomas Jahn,85
+339,,Oliver Stone,140
+340,,Enzo Barboni,120
+341,,Roland Joffé,125
+342,,Ki-duk Kim,103
+343,,Terence Young,108
+344,William Makepeace Thackeray,Stanley Kubrick,184
+345,Louis Pergaud,Yves Robert,90
+346,,Lee Tamahori,102
+347,,Karel Zeman,65
+348,,Majid Majidi,89
+349,,Karel Zeman,90
+350,,Andrej Tarkovskij,205
+351,,Charlie Chaplin,89
+352,,Akira Kurosawa,185
+353,Ji-young Gong,Dong-hyeok Hwang,125
+354,,Fritz Lang,117
+355,Irving Stone,Carol Reed,138
+356,Kóbó Abe,Hiroši Tešigahara,123
+357,,Tim Burton,74
+358,Jan Werich,Oldřich Lipský,93
+359,Bohumil Hrabal,Jiří Menzel,93
+360,,Joel Schumacher,81
+361,Tim Burton,Henry Selick,76
+362,Lorenzo Carcaterra,Barry Levinson,147
+363,,Martin Frič,93
+364,,Michael Curtiz,102
+365,Jeanne-Marie Leprince de Beaumont,Gary Trousdale,84
+366,,Damien O'Donnell,104
+367,,Aaron Sorkin,129
+368,Jules Verne,Karel Zeman,88
+369,,Thomas Vinterberg,105
+370,,Stanley Kramer,108
+371,,Robert Enrico,97
+372,Vladimir Arsenev,Akira Kurosawa,137
+373,,Vittorio De Sica,93
+374,James M. Cain,Billy Wilder,107
+375,Maria von Trapp,Robert Wise,174
+376,,Krzysztof Kieślowski,83
+377,Jacob Grimm,Byron Howard,100
+378,,Taylor Sheridan,103
+379,,Ladislav Smoljak,80
+380,Donald E. Westlake,Brian Helgeland,100
+381,Peter George,Stanley Kubrick,95
+382,,William Wyler,123
+383,,Oriol Paulo,106
+384,,Woody Allen,85
+385,,Petr Schulhoff,96
+386,,Krzysztof Kieślowski,95
+387,Cornelius Ryan,Ken Annakin,171
+388,,Ingmar Bergman,4
+389,,Simon Wincer,103
+390,,Jódžiró Takita,130
+391,,Stanley Kramer,128
+392,,Ingmar Bergman,169
+393,,Charlie Chaplin,72
+394,,Carl Theodor Dreyer,110
+395,Hermann Sudermann,Friedrich Wilhelm Murnau,94
+396,,Sam Taylor,74
+397,MacKinlay Kantor,William Wyler,172
+398,,Luc Besson,126
+399,,Brad Bird,115
+400,,Richard Kelly,113
+401,Stephan Talty,Paul Greengrass,134
+402,,Terry Gilliam,93
+403,Karen Blixen,Sydney Pollack,161
+404,Pierre Boileau,Alfred Hitchcock,128
+405,,Barry Cook,88
+406,Bram Stoker,Friedrich Wilhelm Murnau,94
+407,Charles Perrault,Hamilton Luske,74
+408,,Ingmar Bergman,96
+409,,Hal Ashby,91
+410,,Paul Greengrass,107
+411,Ida Jessen,Nikolaj Arcel,127
+412,,Jim Sheridan,103
+413,,Akira Kurosawa,110
+414,,Jasmila Žbanić,101
+415,,Masaki Kobajaši,128
+416,,Friedrich Wilhelm Murnau,101
+417,,Gore Verbinski,143
+418,F. Scott Fitzgerald,David Fincher,166
+419,,David Ondříček,109
+420,Neil Gaiman,Matthew Vaughn,128
+421,,Edward Zwick,143
+422,Umberto Eco,Jean-Jacques Annaud,126
+423,,Clint Eastwood,131
+424,,Taylor Hackford,146
+425,Peter Maas,Sidney Lumet,130
+426,,Jim Jarmusch,129
+427,,Ki-duk Kim,88
+428,,Lars von Trier,159
+429,,Nikita Michalkov,152
+430,,Mike Nichols,134
+431,,Trey Parker,67
+432,,James Hawes,108
+433,,Jan Komasa,115
+434,Lionel White,Stanley Kubrick,85
+435,,Wim Wenders,147
+436,,Kwang-hyeon Park,133
+437,,François Truffaut,99
+438,B. Traven,John Huston,126
+439,,Krzysztof Kieślowski,117
+440,,Friedrich Wilhelm Murnau,116
+441,Eugene Burdick,Sidney Lumet,112
+442,,Mehmet Ada Öztekin,132
+443,,Martin McDonagh,115
+444,,Joel Coen,98
+445,Jules Verne,Oldřich Lipský,97
+446,,Džun-ho Pong,132
+447,,Francis Veber,80
+448,,Je-gyu Kang,140
+449,,Claude Zidi,107
+450,,Martin Hollý ml.,87
+451,Boris Pasternak,David Lean,197
+452,Ladislav Mňačko,Ján Kadár,129
+453,,Hae-joon Lee,116
+454,,Stanley Kramer,97
+455,,James Clavell,105
+456,,Akira Kurosawa,96
+457,,George Cukor,114
+458,Šolom Alejchem,Norman Jewison,181
+459,,Maciej Pieprzyca,107
+460,,Francis Veber,85
+461,,J.J. Abrams,127
+462,,Roman Polański,130
+463,,Billy Wilder,140
+464,Jerzy Kosiński,Hal Ashby,130
+465,Frank Miller,Jay Oliva,74
+466,Rocky Graziano,Robert Wise,114
+467,,Charles Binamé,124
+468,,Vincent Garenq,97
+469,,Fritz Lang,90
+470,,Jim Abrahams,81
+471,Stan Lee,Anthony Russo,182
+472,Mark Millar,James Mangold,137
+473,Anthony Burgess,Stanley Kubrick,136
+474,Ian Fleming,Guy Hamilton,110
+475,,Ilmar Raag,98
+476,,Woody Allen,93
+477,,Hugo Haas,106
+478,Jan Procházka,Karel Kachyňa,86
+479,Rjúnosuke Akutagawa,Akira Kurosawa,88
+480,,Alfred Hitchcock,105
+481,,Ingmar Bergman,91
+482,Alois Jirásek,Jiří Trnka,91
+483,Freidoune Sahebjam,Cyrus Nowrasteh,114
+484,,Billy Wilder,111
+485,John Boyne,Mark Herman,94
+486,,Ridley Scott,130
+487,,Clint Eastwood,138
+488,Giovanni Arpino,Martin Brest,157
+489,,Stuart Rosenberg,132
+490,Eiko Kadono,Hajao Mijazaki,103
+491,Deborah Curtis,Anton Corbijn,122
+492,Vardis Fisher,Sydney Pollack,108
+493,,Sean Ellis,114
+494,,Mark Rydell,109
+495,,Jošiaki Kawadžiri,91
+496,,Mamoru Hosoda,117
+497,,Robert Youngson,91
+498,,Frank Capra,129
+499,,Slobodan Šijan,83
+500,Betty Smith,Fred Zinnemann,103
+501,Helen Keller,Arthur Penn,106
+502,Walter Wager,Renny Harlin,124
+503,Johnny Cash,James Mangold,131
+504,,Marc Forster,98
+505,,Alejandro González Iñárritu,154
+506,,Jim Jarmusch,121
+507,,Emir Kusturica,123
+508,Stephen King,Rob Reiner,107
+509,,Juraj Jakubisko,110
+510,,DK Welchman,94
+511,Harper Lee,Robert Mulligan,124
+512,,Federico Fellini,108
+513,Georges Arnaud,Henri-Georges Clouzot,142
+514,Masamune Širó,Mamoru Ošii,85
+515,Kentaró Miura,Tošijuki Kubooka,95
+516,,Radúz Činčera,63
+517,Władysław Reymont,DK Welchman,114
+518,Lev Nikolajevič Tolstoj,Sergej Bondarčuk,84
+519,Lev Nikolajevič Tolstoj,Sergej Bondarčuk,427
+520,,Luc Dionne,115
+521,Jordan Belfort,Martin Scorsese,180
+522,,Mel Gibson,139
+523,Charles Frazier,Anthony Minghella,155
+524,,Sergio Leone,99
+525,Masamune Širó,Mamoru Ošii,82
+526,Jaroslav Havlíček,Juraj Herz,101
+527,Peter Van Greenaway,Jack Gold,105
+528,,Anthony Maras,125
+529,Tim Rice,Norman Jewison,108
+530,Mary Norton,Hiromasa Jonebajaši,94
+531,,Tom McGowan,92
+532,,Gene Saks,103
+533,,Rodrigo García,125
+534,Józef Hen,Peter Solan,102
+535,Selma Lagerlöf,Victor Sjöström,107
+536,Su Tong,Yimou Zhang,125
+537,,Andrzej Wajda,153
+538,Ferenc Sánta,Zoltán Fábri,111
+539,,Joel Coen,117
+540,,Alejandro Amenábar,100
+541,Alexandre Dumas mladší,Baz Luhrmann,127
+542,,Bob Gale,116
+543,John O'Brien,Mike Figgis,111
+544,Arkadij Strugackij,Andrej Tarkovskij,162
+545,,Miloš Forman,86
+546,,Blake Edwards,103
+547,,Pedro Almodóvar,101
+548,Vladimír Körner,František Vláčil,99
+549,Lewis Carroll,Jan Švankmajer,86
+550,,Andrej Zvjagincev,110
+551,,François Truffaut,115
+552,,Billy Bob Thornton,135
+553,Tadeusz Dołęga-Mostowicz,Jerzy Hoffman,128
+554,,Akira Kurosawa,143
+555,Auguste Le Breton,Jules Dassin,120
+556,José Giovanni,Jacques Becker,132
+557,,Majid Majidi,90
+558,,Ernst Lubitsch,99
+559,,Bořivoj Zeman,89
+560,,Paul Verhoeven,127
+561,Warren Adler,Danny DeVito,112
+562,,Richard Donner,111
+563,,Anders Thomas Jensen,116
+564,Margaret Mitchell,Victor Fleming,212
+565,,Woody Allen,103
+566,Elmore Leonard,Martin Ritt,111
+567,,Billy Wilder,115
+568,,Ingmar Bergman,87
+569,,Akira Kurosawa,139
+570,Lev Nikolajevič Tolstoj,Sergej Bondarčuk,96
+571,Hua Yu,Yimou Zhang,125
+572,,Václav Vorlíček,96
+573,Ian McEwan,Joe Wright,123
+574,Stieg Larsson,Niels Arden Oplev,146
+575,,Paul Thomas Anderson,188
+576,Karl May,Harald Reinl,89
+577,,Giuseppe Tornatore,124
+578,,Luc Besson,132
+579,,Ingmar Bergman,85
+580,,Hal Ashby,126
+581,Klaus Mann,István Szabó,154
+582,Nobuhiro Wacuki,Kazuhiro Furuhaši,120
+583,,Luis Buñuel,80
+584,,Guy Nattiv,105
+585,J. K. Rowling,David Yates,125
+586,,Rian Johnson,131
+587,Kai Bird,Christopher Nolan,180
+588,R.J. Palacio,Stephen Chbosky,113
+589,,Jošiaki Kawadžiri,102
+590,Jan Procházka,Karel Kachyňa,85
+591,Dušan Kovačevič,Emir Kusturica,163
+592,John Steinbeck,Elia Kazan,115
+593,,Herbert Ross,85
+594,,Bob Fosse,124
+595,Alfréd Technik,František Vláčil,87
+596,,Agnieszka Holland,112
+597,Sang-yeon Park,Chan-wook Park,110
+598,Henry Farrell,Robert Aldrich,134
+599,,Anand Tucker,121
+600,László Krasznahorkai,Béla Tarr,439
+601,William Steig,Conrad Vernon,93
+602,Andy Weir,Ridley Scott,144
+603,,James Wan,99
+604,,Steven Spielberg,115
+605,Dennis Lehane,Ben Affleck,114
+606,Pierre Souvestre,André Hunebelle,94
+607,,Andrew Niccol,106
+608,,Paolo Genovese,93
+609,,Miloš Forman,77
+610,,Anders Thomas Jensen,94
+611,,Kimberly Peirce,114
+612,,John Schlesinger,113
+613,Nikos Kazantzakis,Martin Scorsese,164
+614,,Danis Tanović,98
+615,Karel Čapek,Otakar Vávra,97
+616,,Wim Wenders,127
+617,Kazuo Ishiguro,James Ivory,134
+618,,Federico Fellini,123
+619,John Ball,Norman Jewison,105
+620,,Jean-Paul Rappeneau,137
+621,,Krzysztof Kieślowski,84
+622,,Ingmar Bergman,99
+623,Šúhei Fudžisawa,Jódži Jamada,129
+624,,Billy Wilder,120
+625,Vladimír Valenta,Jiří Krejčík,101
+626,Joe David Brown,Peter Bogdanovich,102
+627,Victor Hugo,Robert Hossein,4
+628,,Lidija Bobrova,97
+629,Hans Christian Andersen,Michael Powell,133
+630,,Tae-gyoon Kim,105
+631,,Mervyn LeRoy,92
+632,,Arnold Fanck,139
+633,,Steven Spielberg,118
+634,,Ivan Reitman,107
+635,Nicholas Sparks,Nick Cassavetes,123
+636,,Desmond Davis,118
+637,Chesley Sullenberger,Clint Eastwood,96
+638,,Richard Donner,127
+639,,Michael Cimino,183
+640,,Mike Binder,124
+641,,David Lynch,112
+642,Karel Michal,Zdeněk Podskalský st.,91
+643,,José Padilha,116
+644,,Vladimír Slavínský,98
+645,,Woo-ping Yuen,107
+646,Larry McMurtry,James L. Brooks,132
+647,,Asghar Farhadi,120
+648,,Tomm Moore,75
+649,,Stanley Donen,113
+650,,Jim Jarmusch,107
+651,,John Woo,136
+652,,Emir Kusturica,142
+653,,Charles Jarrott,145
+654,,André Cayatte,105
+655,,Robert Bresson,99
+656,Masamune Širó,Kendži Kamijama,105
+657,Marcel Pagnol,Yves Robert,98
+658,,Yoon-cheol Jeong,117
+659,László Krasznahorkai,Béla Tarr,145
+660,,Charlie Chaplin,124
+661,,Ernst Lubitsch,99
+662,Władysław Reymont,Andrzej Wajda,179
+663,Alexandre Dumas mladší,Franco Zeffirelli,109
+664,,James Cameron,155
+665,,Steven Soderbergh,116
+666,Washington Irving,Tim Burton,105
+667,,John Lasseter,116
+668,Bruce Porter,Ted Demme,124
+669,Miloslav Švandrlík,Zdenek Sirový,99
+670,,Richard Donner,111
+671,,Jim Jarmusch,116
+672,,Nick Park,85
+673,André Batista,José Padilha,118
+674,René Goscinny,René Goscinny,72
+675,John Grisham,Francis Ford Coppola,130
+676,James Grady,Sydney Pollack,117
+677,,Orson Welles,119
+678,,Jonathan Frakes,106
+679,F. X. Svoboda,Martin Frič,104
+680,Jules Verne,Karel Zeman,74
+681,,Richard Lester,87
+682,,Martin Zandvliet,101
+683,,Hajao Mijazaki,93
+684,Masamune Širó,Mamoru Ošii,99
+685,Horace McCoy,Sydney Pollack,120
+686,,Tom DiCillo,90
+687,,Scott Hicks,105
+688,,Šion Sono,237
+689,,Joseph L. Mankiewicz,138
+690,Henri Murger,Aki Kaurismäki,100
+691,,Radu Mihăileanu,143
+692,Truman Capote,Richard Brooks,134
+693,,Chang-min Choo,131
+694,,Raoul Walsh,106
+695,Martin Andersen Nexø,Bille August,157
+696,Stan Lee,Joss Whedon,143
+697,,Sylvester Stallone,88
+698,Bohumil Hrabal,Jiří Menzel,92
+699,,Claude Zidi,104
+700,,Vladimír Michálek,109
+701,,Wilson Yip,108
+702,,Jane Campion,121
+703,Ales Adamovič,Elem Klimov,142
+704,Peter Jaroš,Juraj Jakubisko,163
+705,,Robert Mulligan,114
+706,,Nadine Labaki,120
+707,,Sergej Bondarčuk,134
+708,Mary Orr,Joseph L. Mankiewicz,138
+709,,Tengiz Abuladze,145
+710,Elijah Wald,James Mangold,141
+711,Hans Christian Andersen,Jiří Trnka,72
+712,Ian Fleming,Martin Campbell,144
+713,,Lee Unkrich,99
+714,Jan Drda,Martin Frič,80
+715,,Sam Mendes,117
+716,,David Zucker,82
+717,,John Musker,87
+718,,Gérard Oury,103
+719,,Terry Jones,107
+720,,Lars von Trier,140
+721,Cornelius Ryan,Richard Attenborough,175
+722,,Gene Saks,104
+723,Ho-sik Kim,Jae-yong Kwak,124
+724,,Christophe Barratier,98
+725,,Sergej M. Ejzenštejn,75
+726,,Alfred Hitchcock,80
+727,Alberto Moravia,Vittorio De Sica,100
+728,,Roland Joffé,141
+729,Alexandre Dumas st.,Robert Vernay,183
+730,Armitage Trail,Howard Hawks,93
+731,René Goscinny,René Goscinny,71
+732,Pik Wah Li,Kaige Chen,171
+733,,Grigorij Kozincev,133
+734,Dan Abnett,James Gunn,116
+735,Vikas Swarup,Danny Boyle,115
+736,,Václav Vorlíček,97
+737,Rudolph Grey,Tim Burton,127
+738,Jane Austen,Ang Lee,131
+739,Ira Levin,Roman Polański,136
+740,,Woody Allen,96
+741,Jasutaka Cucui,Mamoru Hosoda,98
+742,,Jean Girault,85
+743,,Norman Jewison,119
+744,,Woody Allen,107
+745,,Kristina Grozeva,101
+746,,Andrej Tarkovskij,148
+747,,Aisling Walsh,100
+748,,Gillo Pontecorvo,121
+749,,Nobuhiro Doi,119
+750,,Ingmar Bergman,103
+751,,Jiří Trnka,78
+752,,Francesco Rosi,152
+753,Philip K. Dick,Steven Spielberg,145
+754,,Bryan Singer,131
+755,,Jean-Jacques Annaud,126
+756,Andrew Hodges,Morten Tyldum,109
+757,,Steven Soderbergh,147
+758,,Jean-François Richet,133
+759,Robin Moore,William Friedkin,104
+760,Charlie Chaplin,Richard Attenborough,143
+761,,Wayne Wang,112
+762,,Susanne Bier,120
+763,Alexandre Dumas st.,Alexandre de La Patellière,178
+764,,Ian MacNaughton,85
+765,,Kenneth Branagh,233
+766,H.G. Wells,James Whale,71
+767,,Gordon Chan,103
+768,Kentaró Miura,Tošijuki Kubooka,110
+769,,Michail Kalatozov,97
+770,,Carlos Saura,107
+771,Virginia Kellogg,Raoul Walsh,114
+772,Joru Sumino,Šin'ičiró Ušidžima,108
+773,Isaac Asimov,Alex Proyas,115
+774,Pierre Boulle,Rupert Wyatt,105
+775,,Dennis Gansel,110
+776,Joseph D. Pistone,Mike Newell,127
+777,Fjodor Michajlovič Dostojevskij,Petr Zelenka,110
+778,,Peter Jackson,103
+779,Steven Pressfield,Robert Redford,126
+780,,Joel Coen,116
+781,,Matej Mináč,91
+782,,Cameron Crowe,122
+783,,Chia-Liang Liu,97
+784,,Alan J. Pakula,132
+785,Stefan Aust,Uli Edel,144
+786,,Martin Scorsese,128
+787,Jean-Dominique Bauby,Julian Schnabel,107
+788,Felix Salten,David Hand,70
+789,Astrid Lindgren,Tage Danielsson,126
+790,,Michael Herbig,125
+791,,Petr Zelenka,62
+792,Samuel Hopkins Adams,Frank Capra,105
+793,,Ingmar Bergman,81
+794,,Lilja Ingolfsdottir,104
+795,,Jiří Krejčík,88
+796,Noël Calef,J. Lee Thompson,105
+797,,Robert Zemeckis,143
+798,,Bryan Singer,128
+799,,Marie Poledňáková,82
+800,Cormac McCarthy,Joel Coen,122
+801,,Damián Szifron,122
+802,,James Cameron,139
+803,,Tom McCarthy,129
+804,,Pete Docter,107
+805,,Andrew R. Jones,101
+806,,Robert Lamoureux,90
+807,,Ronny Yu,100
+808,,Martin Frič,80
+809,,Richard Linklater,97
+810,Alistair MacLean,Brian G. Hutton,158
+811,,Martin Frič,100
+812,Billy Hayes,Alan Parker,116
+813,Patricia Highsmith,Alfred Hitchcock,101
+814,,Franco Zeffirelli,117
+815,,Don Bluth,70
+816,,Kazuhisa Takenouči,68
+817,Eva Kantůrková,Zdenek Sirový,70
+818,Josef Kainar,Jiří Trnka,76
+819,,Julio Medem,125
+820,,Ettore Scola,105
+821,Friedrich Dürrenmatt,Ladislao Vajda,100
+822,Nagaru Tanigawa,Jasuhiro Takemoto,162
+823,James Hilton,Herbert Ross,151
+824,,Carl Theodor Dreyer,126
+825,,Neill Blomkamp,112
+826,,Quentin Tarantino,210
+827,,James Wan,112
+828,,Jean-Marc Vallée,117
+829,Jodi Picoult,Nick Cassavetes,105
+830,,Sydney Pollack,113
+831,,David Lynch,120
+832,,David Lynch,135
+833,,Francis Veber,95
+834,,William Hanna,89
+835,,Krzysztof Kieślowski,93
+836,,John Woo,111
+837,,František Vláčil,100
+838,,Satoši Kon,81
+839,,Luchino Visconti,175
+840,Shichirô Fukazawa,Šóhei Imamura,130
+841,François Boyer,René Clément,86
+842,Stan Lee,Jon Favreau,126
+843,,Bryan Singer,121
+844,Frank Herbert,Denis Villeneuve,155
+845,Jane Austen,Joe Wright,127
+846,,Gabriele Muccino,117
+847,Nobuaki Minegishi,Chan-wook Park,120
+848,Jay Cronley,Alexandre Arcady,114
+849,,Alan Parker,130
+850,,Tommy O'Haver,92
+851,,Guy Ritchie,123
+852,,Petr Schulhoff,94
+853,,Ben Sharpsteen,64
+854,,Karan Johar,165
+855,C. S. Forester,John Huston,105
+856,,John Woo,150
+857,Kentaró Miura,Tošijuki Kubooka,77
+858,,Jae-yong Kwak,133
+859,Manfred Gregor,Bernhard Wicki,102
+860,Richard Matheson,Jack Arnold,81
+861,Marcel Pagnol,Yves Robert,105
+862,Henryk Sienkiewicz,Jerzy Hoffman,316
+863,Barry Hines,Ken Loach,110
+864,,David Lean,86
+865,Henry James,William Wyler,115
+866,,Kendži Misumi,89
+867,,Blake Edwards,117
+868,Jacques Robert,Julien Duvivier,90
+869,,Bryan Singer,104
+870,,Randal Kleiser,106
+871,Božena Němcová,Bořivoj Zeman,94
+872,,Martin Brest,105
+873,,David Lynch,147
+874,William Diehl Jr.,Gregory Hoblit,129
+875,,Thomas Vinterberg,117
+876,,Paul Verhoeven,139
+877,,Pedro Almodóvar,112
+878,Howard Fast,Stanley Kubrick,101
+879,,Claude Zidi,84
+880,,Chia-Liang Liu,115
+881,,Paul Brizzi,74
+882,,Cristian Mungiu,113
+883,,Alexandr Rogožkin,99
+884,Alexandre Dumas st.,Bernard Borderie,100
+885,Harry Brown,Howard Hawks,122
+886,,Tod Browning,64
+887,,Paľo Bielik,170
+888,Stefan Wul,René Laloux,72
+889,,Akira Kurosawa,110
+890,,John Frankenheimer,176
+891,Šúhei Fudžisawa,Jódži Jamada,132
+892,,Kendži Misumi,81
+893,,Buster Keaton,74
+894,,Fritz Lang,105
+895,Mark Millar,Matthew Vaughn,129
+896,Hermína Franková,Václav Vorlíček,76
+897,,Pete Docter,93
+898,Philip K. Dick,Paul Verhoeven,113
+899,,Don Hall,108
+900,Jo Nesbø,Morten Tyldum,100
+901,,Brenda Chapman,88
+902,,Martin Frič,75
+903,,Otakar Vávra,84
+904,Leslie Waller,Sidney Lumet,125
+905,,Carol Reed,104
+906,,Julio Medem,112
+907,Benito Pérez Galdós,Luis Buñuel,90
+908,,Luis Buñuel,93
+909,,Kaneto Šindó,103
+910,,Jasudžiró Ozu,136
+911,,Ermanno Olmi,170
+912,Georges de La Fouchardière,Fritz Lang,103
+913,Roald Dahl,Tim Burton,115
+914,Stan Lee,Taika Waititi,130
+915,Stephen Chbosky,Stephen Chbosky,103
+916,Joachim Fest,Oliver Hirschbiegel,149
+917,Carl Sagan,Robert Zemeckis,153
+918,,Rich Moore,97
+919,,Martin Scorsese,113
+920,Patrick O'Brian,Peter Weir,138
+921,,John Landis,111
+922,Eric Jager,Ridley Scott,152
+923,,Oliver Stone,150
+924,,Joseph Kosinski,134
+925,,Richard Linklater,80
+926,Vladislav Vančura,František Vláčil,165
+927,E. M. Nathanson,Robert Aldrich,145
+928,,F. Gary Gray,147
+929,Jonathan Trigell,John Crowley,100
+930,,Alejandro Amenábar,125
+931,,Giuseppe Tornatore,120
+932,,John Woo,128
+933,,Siân Heder,111
+934,,Martin Hollý ml.,85
+935,Jan Otčenášek,Jiří Weiss,94
+936,,Wojciech Smarzowski,132
+937,,Marcus H. Rosenmüller,120
+938,,Werner Herzog,158
+939,,Tom Stoppard,117
+940,Puk Damsgård,Niels Arden Oplev,135
+941,,Maciej Kawulski,133
+942,Irving Stone,Vincente Minnelli,122
+943,,Jean-Pierre Améris,95
+944,Carson McCullers,Robert Ellis Miller,123
+945,,Sam Mendes,143
+946,,Martin McDonagh,107
+947,,Oldřich Lipský,80
+948,,Pete Docter,95
+949,,Miloš Forman,118
+950,,Miloš Forman,129
+951,Michael Cunningham,Stephen Daldry,114
+952,Wendelin Van Draanen,Rob Reiner,90
+953,William Peter Blatty,William Friedkin,122
+954,Zdeněk Jirotka,Jiří Věrčák,97
+955,,Yimou Zhang,99
+956,,Catherine Hardwicke,107
+957,,Sergio Corbucci,109
+958,Edgar Rice Burroughs,Kevin Lima,88
+959,Pascal Bruckner,Roman Polański,138
+960,,Mark Dindal,78
+961,,Robert Wise,152
+962,Mark Frost,Bill Paxton,120
+963,,Andrew Lau,101
+964,Alice Walker,Steven Spielberg,154
+965,,Denis Villeneuve,130
+966,Aoi Hiiragi,Jošifumi Kondó,111
+967,,Neil Jordan,112
+968,Tadeusz Dołęga-Mostowicz,Michał Gazda,140
+969,,Nicolas Winding Refn,90
+970,,Bob Fosse,123
+971,Larry McMurtry,Peter Bogdanovich,118
+972,,Brady Corbet,215
+973,,George Seaton,96
+974,,Rainer Werner Fassbinder,93
+975,,Marisa Sistach,90
+976,J.R.R. Tolkien,Peter Jackson,169
+977,Ernest Cline,Steven Spielberg,140
+978,,Jerry Zucker,127
+979,Bernhard Schlink,Stephen Daldry,119
+980,,Olivier Dahan,140
+981,Emma Donoghue,Lenny Abrahamson,118
+982,,Henry Alex Rubin,116
+983,,Terry Gilliam,137
+984,,Tony Kaye,97
+985,,Martin Frič,93
+986,,Christopher Nolan,69
+987,,Sylvain Chomet,80
+988,,Joseph L. Mankiewicz,110
+989,,Stéphane Aubier,74
+990,Kacuhiro Ótomo,Kacuhiro Ótomo,124
+991,,Martin Frič,117
+992,,Jan Komasa,135
+993,,Woody Allen,85
+994,Stephen King,Taylor Hackford,126
+995,,Billy Wilder,105
+996,,Randa Haines,114
+997,Joan G. Robinson,Hiromasa Jonebajaši,103
+998,Tom Wolfe,Philip Kaufman,193
+999,,Jacques Feyder,114
+1000,Fabian Nicieza,Tim Miller,108
