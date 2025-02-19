@@ -4,6 +4,12 @@ This project extracts and analyzes data from the **TOP 1000 films on ČSFD** (Cz
 The data is collected via **web scraping**, processed using **Python & Pandas**, and visualized in **graphs and tables**.  
 The final output is a **detailed PDF report**.
 
+⚠️ Important Notes:
+
+The script uses Selenium for automated web scraping and requires the Chrome WebDriver along with the Chrome browser extension.
+The scraping process involves downloading 100 pages of rankings and 1,000 subpages with detailed film information.
+Execution time: The script runs for a while due to the large amount of data being processed.
+
 ---
 
 ## 📌 Features  
